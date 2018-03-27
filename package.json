@@ -1,12 +1,14 @@
 {
-    "name": "generator-ejemplo-yeoman",
-    "version": "0.1.0",
-    "description": "Ejemplo de generador de Yeoman",
-    "files": [
-      "generators"
-    ],
-    "keywords": ["yeoman-generator"],
-    "dependencies": {
-      "yeoman-generator": "^1.0.0"
-    }
+  "name": "generator-ejemplo-yeoman",
+  "version": "0.1.0",
+  "description": "Ejemplo de generador de Yeoman",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
   }
+}
